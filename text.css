@@ -1,0 +1,571 @@
+.network {
+    
+    background-color: brown;
+    width: 100%;
+    height: 100%;
+    float: left;
+    padding-left: 100px;
+    padding-right: 200px;
+    
+}
+.top {
+   
+    height: 40px;
+    width:80%;
+    background-color: brown;
+    float: left;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.social {
+    
+    width: 200px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 4px;
+    float: left;
+    font-size: 30px;
+    color: white;
+    
+
+}
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+#input1 {
+    width: 500px;
+    height: 30px;
+   margin-left: 20px;
+    margin-top: 6px;
+    float: left;
+}
+.submit {
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+.icon {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 11px;
+    float: left;
+    color: white;
+}
+.welcome {
+    font-size: 10px;
+    float: right;
+    color: white;
+    margin-left: 5px;
+}
+
+.header {
+   border-bottom: 2px solid white;
+   border-top: 2px solid white;
+    width: 75%;
+    height: 30px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 200px;
+
+}
+.header ul li {
+    float: left;
+    letter-spacing: 3px;
+    word-spacing: 100px;
+    color: white;
+    list-style-type: none;
+    margin-top: 2px;
+    
+
+}
+ul li a{
+    color: white;
+    padding: 18px;
+    
+    
+}
+.videos {
+    
+    float: left;
+    width: 50%;
+    height: 20px;
+    margin-left: 200px;
+    color: white;
+    margin-top: 20px;
+}
+.activity {
+    
+    float: left;
+    width: 25%;
+    height: 20px;
+    margin-left: 43px;
+    color: white;
+    margin-top: 12px;
+}
+.maintop{
+    
+    width: 75%;
+    height: 500px;
+    float: left;
+    margin-left: 200px;
+
+}
+.videobottom {
+    
+    width: 70%;
+    height: 100%;
+    float: left;
+
+}
+.activbottom {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    width: 29%;
+    height: 100%;
+    float: left;
+    margin-left: 1%;
+    
+}
+.videobottomtop {
+    
+    width: 100%;
+    height: 65.5%;
+}
+.videobottomtopleft {
+    background-color:white;
+    width: 66%;
+    height: 100%;
+    float: left;
+}
+.videobottomtoprighttop {
+    background-color: white;
+    width: 33%;
+    height: 49%;
+    float: left;
+    margin-left: 1%;
+}
+.videobottomtoprightbotom {
+    background-color: white;
+    width: 33%;
+    height: 49%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.videobottombottom {
+    
+    width: 100%;
+    height: 33.5%;
+    float: left;
+    margin-top: 1%;
+}
+.videobottombottomleft {
+    background-color:white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+}
+.videobottombottommiddle {
+    background-color:white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+}
+.videobottombottomright {
+    border: 1px solid white;
+    height: 100%;
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+}
+.activebottommain {
+    
+    height: 94%;
+    width: 100%;
+    margin-top: 5%;
+    float: left;
+    
+}
+.activbottom1 {
+   
+    width: 100%;
+    height: 19%;
+    float: left;
+
+}
+.activbottom2 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+
+}
+.activbottom3 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.activbottom4 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.activbottom5 {
+    
+    width: 100%;
+    height: 19%;
+    float: left;
+    margin-top: 1.25%;
+
+}
+.activbottomimg {
+    background-color: white;
+    height: 100%;
+    width: 35%;
+    float: left;
+}
+.activbottomp {
+    
+    height: 100%;
+    width: 63%;
+    float: left;
+    margin-left: 2%;
+}
+#activebottomp {
+    font-size: 11px;
+    color: white;
+    padding: 0;
+    margin: 0;
+    
+}
+#activebottomcomments {
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#activebottomh {
+    color: white;
+}
+.videobottomtopleftp {
+    
+    width: 60%;
+    height: 12%;
+    margin-top: 68%;
+    margin-left: 2%;
+}
+.videobottomtoplefth {
+    color: brown;
+    
+    padding: 0;
+    margin: 0;
+
+}
+#videobottomtopleftp {
+    color: brown;
+    padding: 0;
+    margin: 0;
+
+}
+.videobottomtoprighttopp{
+
+width: 70%;
+height: 20%;
+margin-top: 61%;
+margin-left: 2%;
+
+}
+.videobottomtoprightbotomp {
+
+width: 70%;
+height: 20%;
+margin-top: 61%;
+margin-left: 2%;
+}
+#videobottomtoprightbotomh {
+    color: brown;
+    font-size: 15px;
+}
+.videobottombottomp {
+    
+    width: 70%;
+    height: 20%;
+    margin-top: 65%;
+    margin-left: 2%;
+}
+#videobottombottomh { 
+    color: brown;
+    font-size: 15px;
+}
+#videobottombottomrighticon {
+   margin-top: 30%;
+   margin-left: 15%;
+   color: white;
+   font-size: 30px;
+   padding: 5px;
+   border: 2px solid white;
+   border-radius: 25px;
+   float: left;
+}
+.videobottombottomrightp {
+    
+    width: 55%;
+    height: 20%;
+    float: left;
+    margin-top: 32%;
+    margin-left: 10px;
+
+}
+.videobottombottomrighth4 {
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.videobottombottomrighth5 {
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.people{
+    
+    float: left;
+    width: 50%;
+    height: 20px;
+    margin-left: 200px;
+    color: white;
+    margin-top: 40px;
+}
+.channels {
+    
+    float: left;
+    width: 25%;
+    height: 20px;
+    margin-left: 43px;
+    color: white;
+    margin-top: 40px;
+}
+.mainbottom {
+    
+    width: 75%;
+    height: 1050px;
+    margin-left: 200px;
+    float: left;
+
+}
+.mainbottomleft {
+    
+    height: 100%;
+    width:  70%;
+    float: left;
+
+}
+.mainbottomlefttop {
+  
+    width: 100%;
+    height: 500px;
+    float: left;
+    
+}
+.mainbottomleftbottom {
+    
+    width: 100%;
+    height: 500px;
+    
+    float: left;
+
+}
+.mainbottomright {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white; 
+    width: 29%;
+    height: 90%;
+    float: left;
+    margin-left: 1%;
+}
+.mainbottomright1 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  10%;
+}
+.mainbottomright2 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.mainbottomright3 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.mainbottomright4 {
+   
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.mainbottomright5 {
+    
+    width: 100%;
+    height: 18%;
+    float: left;
+   margin-top:  2%;
+}
+.mainbottomright1left {
+    background-color:white;
+    height: 100%;
+    width: 49%;
+    float: left;
+}
+.mainbottomright1right {
+    background-color: white;
+    height: 100%;
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+}
+.on {
+    
+    height: 20%;
+    width: 60%;
+    margin-top: 95%;
+    margin-left: 4%;
+
+}
+.mainbottomrightp {
+    color: brown;
+
+}
+.foot {
+    border-top: 2px solid white;
+    width: 75%;
+    height: 30px;
+    float: left;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+#footicon {
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+.footnav {
+    margin-top: 10px;
+    margin-left: 145px;
+  
+    width: 75%;
+    height: 30%;
+  
+
+
+}
+.footnavlist li {
+    float: left;
+    list-style-type: none;
+}
+#final {
+    
+    color: white;
+    margin-top: 20px;
+    float: left;
+    margin-right: 130px;
+    margin-left: 200px;
+}
+.mainbottomlefttoptop {
+    
+    width: 100%;
+    height: 65.5%;
+}
+.mainbottomlefttopbottom {
+    
+    width: 100%;
+    height: 33.5%;
+    margin-top: 1%;
+}
+.mainbottomlefttoptopleft {
+    background-color: white;
+    height: 100%;
+    width: 66%;
+    float: left;
+    
+}
+.mainbottomlefttoptoprighttop {
+    background-color: white;
+    height: 49%;
+    width: 33%;
+    margin-left: 1%;
+    float: left;
+    
+    
+}
+.mainbottomlefttoptoprightbottom {
+    background-color: white;
+    height: 49%;
+    width: 33%;
+    margin-left: 1%;
+    float: left;
+    margin-top: 1%;
+    
+    
+}
+.mainbottomlefttopbottomleft {
+    background-color: white;
+    
+    height: 100%;
+    width: 32.5%;
+    float: left;
+}
+.mainbottomlefttopbottommiddle {
+    background-color: white;
+    height: 100%;
+    width: 32.5%;
+    float: left;
+    margin-left: 1%;
+}
+.mainbottomlefttopbottomright {
+    border: 1px solid white;
+    height: 100%;
+    width: 33%;
+    float: left;
+    margin-left: 1%;
+}
+.mainbottomleftmiddle {
+    width: 100%;
+    height: 50px;
+   
+    float: left;
+}
+.mainbottomleftmiddlep{
+    color: white;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
